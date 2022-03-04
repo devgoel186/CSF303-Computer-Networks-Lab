@@ -1,0 +1,16 @@
+Packet Sniffer 
+- For observing messages exchanged b/w executing protocol entities
+- Is passive
+- Observes messages being sent and received, but never sends packets itself.
+- Thw two components are : packet capture library (captures all link-layer frames sent or receive
+ over interface) , packet analyzer (displays all fields within a protocol message)
+
+Wireshark components
+- Command menus - Standard pull down menus (main ones are File and Capture)
+- Packet Listing window - Oneline summary for each packet captured including the packet
+							number(no. is assigned by wireshark)
+- Packer header details window - Provides details about the packet selected in the 
+						listing window.
+- Packet contents window - Display entire contents of the captured frame, in both ASCII
+						and hexadecimal format.
+- Filter field
