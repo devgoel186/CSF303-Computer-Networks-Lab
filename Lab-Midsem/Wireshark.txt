@@ -1,0 +1,10 @@
+2.1 - The IP address of the client / local machine is 10.0.2.15.
+      The number of http requests are = 19
+
+2.2 - The client receives 18 http responses as can be seen in the screenshot below
+
+2.3 - On filtering with the string `http contains sougata-sen`, we get the one completed HTTP response from 3.33.152.147.
+      This packet shows frame as :
+      Frame 1798: 730 bytes on wire.
+
+      Thus, the size of the frame is 730 bytes.
