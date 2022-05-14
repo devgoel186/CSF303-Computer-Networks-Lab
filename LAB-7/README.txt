@@ -1,6 +1,6 @@
 * Name - DEV GOEL
 * BITS Id - 2019A7PS0236G
-* Lab Number - LAB-7
+* Lab Number - LAB-Compre
 
 Following are the steps for running client-server communication:
 
